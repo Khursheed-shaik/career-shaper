@@ -1,0 +1,16 @@
+{
+  "target": "Critical Thinking",
+  "features": [
+    "Active Learning",
+    "Active Listening",
+    "Learning Strategies",
+    "Mathematics",
+    "Monitoring",
+    "Reading Comprehension",
+    "Science",
+    "Speaking",
+    "Writing"
+  ],
+  "model_type": "RandomForestRegressor",
+  "random_state": 42
+}
